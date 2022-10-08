@@ -1,0 +1,14 @@
+{
+  "EXTENSION": "Extension",
+  "IMPORT_EXTENSION": "Import Extension",
+  "IMPORT_PLUGIN": "Import Plugin",
+  "IMPORT_THEME": "Import Theme",
+  "GUILD": "Guild",
+  "SERVER": "Server",
+  "JOIN_HELP_SERVER": "Join Help Server",
+  "IMPOTING_THEME": "Importing \"{0}\" theme!",
+  "IMPOTING_PLUGIN": "Importing \"{0}\" plugin!",
+  "REMOVING_THEME": "Removing \"{0}\" theme!",
+  "REMOVING_PLUGIN": "Removing \"{0}\" plugin!",
+  "PLUGIN_ERROR": "Plugin error! {0}"
+}
