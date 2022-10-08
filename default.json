@@ -9,7 +9,7 @@
   "IMPOTING_PLUGIN": "\"{0}\" eklentisi yükleniyor!",
   "REMOVING_THEME": "\"{0}\" teması kaldırılıyor!",
   "REMOVING_PLUGIN": "\"{0}\" eklentisi kaldırılıyor!",
-  "EXTENSION_ERROR": "Uzantı hatası! {0}",
+  "EXTENSION_ERROR": "\"{0}\" uzuntası yüklenirken birşeyler yanlış gitti.",
   "EXTENSIONS": "Uzantılar",
   "EXTENSION": "Uzantı",
   "PLUGINS": "Eklentiler",
