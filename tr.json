@@ -1,0 +1,19 @@
+{
+  "IMPORT_EXTENSION": "Uzantı Ekle",
+  "IMPORT_PLUGIN": "Eklenti Ekle",
+  "IMPORT_THEME": "Tema Ekle",
+  "GUILD": "Lonca",
+  "SERVER": "Sunucu",
+  "JOIN_HELP_SERVER": "Desktek Sunucusuna Katıl",
+  "IMPOTING_THEME": "\"{0}\" teması yükleniyor!",
+  "IMPOTING_PLUGIN": "\"{0}\" eklentisi yükleniyor!",
+  "REMOVING_THEME": "\"{0}\" teması kaldırılıyor!",
+  "REMOVING_PLUGIN": "\"{0}\" eklentisi kaldırılıyor!",
+  "EXTENSION_ERROR": "Uzantı hatası! {0}",
+  "EXTENSIONS": "Uzantılar",
+  "EXTENSION": "Uzantı",
+  "PLUGINS": "Eklentiler",
+  "PLUGIN": "Eklenti",
+  "THEMES": "Temalar",
+  "THEME": "Tema"
+}
