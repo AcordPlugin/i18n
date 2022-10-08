@@ -9,6 +9,8 @@
   "IMPOTING_PLUGIN": "\"{0}\" eklentisi yükleniyor!",
   "REMOVING_THEME": "\"{0}\" teması kaldırılıyor!",
   "REMOVING_PLUGIN": "\"{0}\" eklentisi kaldırılıyor!",
+  "STOPPING_THEME": "\"{0}\" teması etkisiz hale getiriliyor!",
+  "STOPPING_PLUGIN": "\"{0}\" eklentisi etkisiz hale getiriliyor!",
   "EXTENSION_LOAD_ERROR": "\"{0}\" uzuntası yüklenirken birşeyler yanlış gitti.",
   "EXTENSION_UNLOAD_ERROR": "\"{0}\" uzantısı kapatılırken birşeyler yanlış gitti.",
   "EXTENSIONS": "Uzantılar",
