@@ -15,5 +15,6 @@
   "PLUGINS": "Eklentiler",
   "PLUGIN": "Eklenti",
   "THEMES": "Temalar",
-  "THEME": "Tema"
+  "THEME": "Tema",
+  "ACORD_LOADED": "Acord yüklendi!"
 }
