@@ -19,5 +19,6 @@
   "PLUGIN": "Eklenti",
   "THEMES": "Temalar",
   "THEME": "Tema",
-  "ACORD_LOADED": "Acord yüklendi!"
+  "ACORD_LOADED": "Acord yüklendi!",
+  "ACORD_UNLOADED": "Acord Uninjected!"
 }
