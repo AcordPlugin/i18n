@@ -5,7 +5,7 @@
   "IMPORT_PLUGIN": "Eklenti Ekle",
   "IMPORT_PLUGIN_PLACEHOLDER": "https://raw.githubusercontent.com/AcordPlugin/plugins/main/acord-ui/dist/",
   "IMPORT_THEME": "Tema Ekle",
-  "IMPORT_THEME_PLACEHOLDER": "https://raw.githubusercontent.com/AcordPlugin/plugins/main/acord-ui/dist/",
+  "IMPORT_THEME_PLACEHOLDER": "https://raw.githubusercontent.com/AcordPlugin/themes/main/d-colefor/dist/",
   "GUILD": "Lonca",
   "SERVER": "Sunucu",
   "JOIN_HELP_SERVER": "Desktek Sunucusuna Katıl",

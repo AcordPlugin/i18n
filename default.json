@@ -5,7 +5,7 @@
   "IMPORT_PLUGIN": "Add Plugin",
   "IMPORT_PLUGIN_PLACEHOLDER": "https://raw.githubusercontent.com/AcordPlugin/plugins/main/acord-ui/dist/",
   "IMPORT_THEME": "Add Theme",
-  "IMPORT_THEME_PLACEHOLDER": "https://raw.githubusercontent.com/AcordPlugin/plugins/main/acord-ui/dist/",
+  "IMPORT_THEME_PLACEHOLDER": "https://raw.githubusercontent.com/AcordPlugin/themes/main/d-colefor/dist/",
   "GUILD": "Guild",
   "SERVER": "Server",
   "JOIN_HELP_SERVER": "Join Support Server",
