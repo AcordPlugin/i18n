@@ -23,5 +23,10 @@
   "THEME": "Theme",
   "ABOUT": "About",
   "ACORD_LOADED": "Acord Injected!",
-  "ACORD_UNLOADED": "Acord Uninjected!"
+  "ACORD_UNLOADED": "Acord Uninjected!",
+  "COPY_LINK": "Copy Link",
+  "X_COPIED": "\"{0}\" copied!",
+  "COPIED": "Copied!",
+  "RELOAD_PLUGIN": "Reload Plugin",
+  "REMOVE_PLUGIN": "Remove Plugin"
 }
