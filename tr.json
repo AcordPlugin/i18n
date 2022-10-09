@@ -33,8 +33,12 @@
   "COPIED": "Kopyalandı!",
   "RELOAD_PLUGIN": "Eklentiyi Yenile",
   "REMOVE_PLUGIN": "Eklentiyi Sil",
-  "X_MADE_BY": "{0} tarafından yapıldı",
+  "RELOAD_THEME": "Temayı Yenile",
+  "REMOVE_THEME": "Temayı Sil",
   "OPEN_PLUGIN_SETTINGS": "Plugin Ayarlarını Aç",
   "COPY_PLUGIN_LINK": "Plugin Linkini Kopyala",
+  "OPEN_THEME_SETTINGS": "Tema Ayarlarını Aç",
+  "COPY_THEME_LINK": "Tema Linkini Kopyala",
+  "X_MADE_BY": "{0} tarafından yapıldı",
   "X_EXTENSION_SETTINGS": "{0} Ayarları"
 }

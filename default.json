@@ -33,8 +33,12 @@
   "COPIED": "Copied!",
   "RELOAD_PLUGIN": "Reload Plugin",
   "REMOVE_PLUGIN": "Remove Plugin",
+  "RELOAD_THEME": "Reload Theme",
+  "REMOVE_THEME": "Remove Theme",
   "X_MADE_BY": "made by {0}",
   "OPEN_PLUGIN_SETTINGS": "Open Plugin Settings",
   "COPY_PLUGIN_LINK": "Copy Plugin Link",
+  "OPEN_THEME_SETTINGS": "Open Theme Settings",
+  "COPY_THEME_LINK": "Copy Theme Link",
   "X_EXTENSION_SETTINGS": "{0}'s Settings"
 }
