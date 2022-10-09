@@ -30,5 +30,9 @@
   "X_COPIED": "\"{0}\" copied!",
   "COPIED": "Copied!",
   "RELOAD_PLUGIN": "Reload Plugin",
-  "REMOVE_PLUGIN": "Remove Plugin"
+  "REMOVE_PLUGIN": "Remove Plugin",
+  "X_MADE_BY": "made by {0}",
+  "OPEN_PLUGIN_SETTINGS": "Open Plugin Settings",
+  "COPY_PLUGIN_LINK": "Copy Plugin Link",
+  "X_EXTENSION_SETTINGS": "{0}'s Settings"
 }
