@@ -23,5 +23,10 @@
   "THEME": "Tema",
   "ABOUT": "Hakkında",
   "ACORD_LOADED": "Acord yüklendi!",
-  "ACORD_UNLOADED": "Acord Uninjected!"
+  "ACORD_UNLOADED": "Acord kapatıldı!",
+  "COPY_LINK": "Linki Kopyala",
+  "X_COPIED": "\"{0}\" kopyalandı!",
+  "COPIED": "Kopyalandı!",
+  "RELOAD_PLUGIN": "Eklentiyi Yenile",
+  "REMOVE_PLUGIN": "Eklentiyi Sil"
 }
