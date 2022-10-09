@@ -1,6 +1,6 @@
 {
   "IMPORT_EXTENSION": "Uzantı Ekle",
-  "IMPORT_EXTENSION_DESCRIPTION": "{1} ismindeki uzantıyı eklemek istediğinize emin misiniz?",
+  "IMPORT_EXTENSION_DESCRIPTION": "{0} ismindeki uzantıyı eklemek istediğinize emin misiniz?",
   "EXTENSION_ALREADY_ENABLED": "Eklenti zaten mevcut.",
   "IMPORT_PLUGIN": "Eklenti Ekle",
   "IMPORT_PLUGIN_PLACEHOLDER": "https://raw.githubusercontent.com/AcordPlugin/plugins/main/acord-ui/dist/",
