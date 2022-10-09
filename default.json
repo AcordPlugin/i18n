@@ -19,6 +19,7 @@
   "PLUGIN": "Plugin",
   "THEMES": "Themes",
   "THEME": "Theme",
+  "ABOUT": "About",
   "ACORD_LOADED": "Acord Injected!",
   "ACORD_UNLOADED": "Acord Uninjected!"
 }
