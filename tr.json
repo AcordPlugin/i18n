@@ -1,6 +1,6 @@
 {
   "IMPORT_EXTENSION": "Uzantı Ekle",
-  "IMPORT_EXTENSION_DESCRIPTION": "{0} ismindeki uzantıyı eklemek istediğinize emin misiniz?",
+  "IMPORT_EXTENSION_DESCRIPTION": "`{0}` urlsindeki uzantıyı eklemek istediğinize emin misiniz?",
   "EXTENSION_ALREADY_ENABLED": "Eklenti zaten mevcut.",
   "IMPORT_PLUGIN": "Eklenti Ekle",
   "IMPORT_PLUGIN_DESCRIPTION": "Acord eklentisini eklmek için alttaki tuşa basınız! Acorda plugin eklemek, discordunuzun değişmesine sebep olur. Onaylı olmayan pluginlere dikkat edin! (şş he bu arada gizli bilgi eğer bu mesajı görüyorsanız, bu plugin onaylıdır)",
