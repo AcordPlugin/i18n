@@ -40,5 +40,6 @@
   "COPY_PLUGIN_LINK": "Copy Plugin Link",
   "OPEN_THEME_SETTINGS": "Open Theme Settings",
   "COPY_THEME_LINK": "Copy Theme Link",
-  "X_EXTENSION_SETTINGS": "{0}'s Settings"
+  "X_EXTENSION_SETTINGS": "{0}'s Settings",
+  "HELP_SERVER": "Help Server"
 }
