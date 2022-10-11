@@ -1,6 +1,6 @@
 {
   "IMPORT_EXTENSION": "Add Extension",
-  "IMPORT_EXTENSION_DESCRIPTION": "Are you sure that, you want to install the plugin with name {0}?",
+  "IMPORT_EXTENSION_DESCRIPTION": "Are you sure that, you want to install the plugin with url `{0}`?",
   "EXTENSION_ALREADY_ENABLED": "Extension is already exists.",
   "IMPORT_PLUGIN": "Add Plugin",
   "IMPORT_PLUGIN_DESCRIPTION": "To add the acord plugin into your plugins press the button below! Adding a plugin to acord, changes something in your discord. Be aware of the plugins that are not verified! (sssh this is a secret information, if you can see this message that means this is a verified plugin)",
