@@ -43,5 +43,7 @@
   "X_EXTENSION_SETTINGS": "{0} Ayarları",
   "HELP_SERVER": "Destek Sunucusu",
   "ACTIVE_USER": "Aktif Acord Üyesi",
-  "ACORD_ADMIN": "Acord Yöneticisi"
+  "ACORD_ADMIN": "Acord Geliştiricisi",
+  "ACORD_EARLY_MEMBER": "Acord Erken Dönem Üyesi",
+  "ACORD_HELPER": "Acord Rehberi"
 }

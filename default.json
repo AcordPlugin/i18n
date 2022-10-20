@@ -43,5 +43,7 @@
   "X_EXTENSION_SETTINGS": "{0}'s Settings",
   "HELP_SERVER": "Help Server",
   "ACTIVE_USER": "Active Acord User",
-  "ACORD_ADMIN": "Acord Admin"
+  "ACORD_ADMIN": "Acord Developer",
+  "ACORD_EARLY_MEMBER": "Acord Early User",
+  "ACORD_HELPER": "Acord Helper"
 }
