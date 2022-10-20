@@ -42,5 +42,6 @@
   "X_MADE_BY": "{0} tarafından yapıldı",
   "X_EXTENSION_SETTINGS": "{0} Ayarları",
   "HELP_SERVER": "Destek Sunucusu",
-  "ACTIVE_USER": "Aktif Acord Üyesi"
+  "ACTIVE_USER": "Aktif Acord Üyesi",
+  "ACORD_ADMIN": "Acord Yöneticisi"
 }
