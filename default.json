@@ -48,5 +48,7 @@
   "ACORD_HELPER": "Acord Helper",
   "ACORD_BANNED": "C̶̀̌Ũ̸͐Ṙ̵͂Ṡ̸͌E̸̓̚D̴̉̉ ̴̓̈́M̷̈́̆E̴̅̀M̵͛̆B̴͆͐Ë̵̿R̵͂͑",
   "PROMOTION_REQUIRED": "You need to add \".gg/acord\" to your custom status before using.",
-  "ALERT": "Alert"
+  "ALERT": "Alert",
+  "ACCEPT_EXTENSION_EULA": "Extension Eula Acceptance",
+  "ACCEPT_EXTENSION_EULA_DESCRIPTION": "By installing this extension, you agree to the extension's EULA."
 }
