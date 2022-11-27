@@ -50,5 +50,6 @@
   "PROMOTION_REQUIRED": "You need to add \".gg/acord\" to your custom status before using.",
   "ALERT": "Alert",
   "ACCEPT_EXTENSION_EULA": "Extension Eula Acceptance",
-  "ACCEPT_EXTENSION_EULA_DESCRIPTION": "By installing this extension, you agree to the extension's EULA."
+  "ACCEPT_EXTENSION_EULA_DESCRIPTION": "By installing this extension, you agree to the extension's EULA.",
+  "UPDATING_VERSION_V1_TO_V2": "Updating {0} version to newer Acord {1} version!"
 }

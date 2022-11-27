@@ -50,5 +50,6 @@
   "PROMOTION_REQUIRED": "Kullanmaya başlamak için özel durumuna \".gg/acord\" yazısı eklemelisin.",
   "ALERT": "Uyarı",
   "ACCEPT_EXTENSION_EULA": "Eklentinin Kullanım Şartı",
-  "ACCEPT_EXTENSION_EULA_DESCRIPTION": "Eklentinin kullanım şartını kabul etmek için alttaki butona basınız."
+  "ACCEPT_EXTENSION_EULA_DESCRIPTION": "Eklentinin kullanım şartını kabul etmek için alttaki butona basınız.",
+  "UPDATING_VERSION_V1_TO_V2": "{0} versiyonundan yeni olan {1} Acord versiyonuna güncelleniyor!"
 }
