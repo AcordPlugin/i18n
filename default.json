@@ -53,5 +53,10 @@
   "ACCEPT_EXTENSION_EULA_DESCRIPTION": "By installing this extension, you agree to the extension's EULA.",
   "UPDATING_VERSION_V1_TO_V2": "Updating {0} version to newer Acord {1} version!",
   "SUPPORT_ACORD": "To support Acord click here",
-  "SUPPORT_HERE": "Donating"
+  "SUPPORT_HERE": "Donating",
+  "BRONZE_SUPPORTER": "Bronze Supporter",
+  "SILVER_SUPPORTER": "Silver Supporter",
+  "GOLD_SUPPORTER": "Gold Supporter",
+  "PLATINUM_SUPPORTER": "Platinum Supporter",
+  "TITANIUM_SUPPORTER": "Titanium Supporter"
 }
